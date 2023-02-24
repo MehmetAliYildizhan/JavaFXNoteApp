@@ -1,0 +1,16 @@
+1;Plan trip to Hawaii;Book flight, find accommodation, research activities;0x00BFFF;2023-02-16T09:12:31.125
+2;Learn French;Complete online course, practice with native speakers, read French literature;0xFF69B4;2023-02-15T21:45:12.411
+3;Organize garage;Sort and declutter items, donate or sell unwanted items, install shelving;0x00FFFF;2023-02-14T18:30:55.004
+4;Write novel;Outline plot and characters, research historical setting, write 500 words a day;0x800080;2023-02-13T14:20:43.816
+5;Train for marathon;Follow training plan, cross-train with strength and flexibility exercises, increase mileage gradually;0x228B22;2023-02-12T07:55:19.702
+6;Start a vegetable garden;Research suitable crops for the climate, prepare soil and beds, plant seeds and seedlings;0x008000;2023-02-11T19:03:08.512
+7;Take up painting;Buy supplies, research techniques and styles, join a local art group;0xFFD700;2023-02-10T11:41:06.225
+8;Learn to play guitar;Buy or borrow a guitar, take lessons or watch online tutorials, practice daily;0xCD5C5C;2023-02-09T08:22:37.711
+9;Visit all 50 US states;Plan a road trip, research attractions and landmarks in each state, keep a travel journal;0xFF7F50;2023-02-08T16:55:41.289
+10;Complete a puzzle with 1000 pieces;Set up a dedicated work space, sort pieces by color or pattern, work on it for an hour a day;0x8FBC8F;2023-02-07T12:05:22.901
+11;Volunteer at a local shelter;Research local animal shelters, complete any necessary training or background checks, donate time and resources;0xFFFF00;2023-02-06T09:13:51.005
+12;Make homemade pasta from scratch;Buy or make a pasta machine, prepare dough, roll and cut pasta into desired shapes;0xFFA500;2023-02-05T18:30:12.112
+13;Read 50 books in a year;Create a reading list, set aside time for reading every day, track progress with a reading log;0xFFE4B5;2023-02-04T14:20:19.453
+14;Plan a surprise party for a friend;Choose a theme, create guest list, plan decorations and activities, keep it a secret;0x8B0000;2023-02-03T07:55:33.211
+15;Go on a solo trip;Research destinations, book accommodation and transportation, plan activities, stay safe and enjoy the journey;0x1E90FF;2023-02-02T19:03:56.312
+16;Start a side business;Identify a niche or skill, create a business plan, register business and get necessary licenses, market products or services;0x00CED1;2023-02-01T11:41:01.028
